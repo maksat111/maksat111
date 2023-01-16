@@ -1,9 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+Maksat's+github+page;I+am+a+web+developer)](https://git.io/typing-svg)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maksat111&theme=github_dark&show_icons=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maksat111&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<p float="left">
+  <img height="170em" align="center" src="https://github-readme-stats.vercel.app/api?username=maksat111&show_icons=true&theme=radical&count_private=true" />
+  <img height="170em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maksat111&layout=compact&show_icons=true&theme=radical&langs_count=8" />
+</p>
 
 
 [![My Skills](https://skillicons.dev/icons?i=js,nodejs,react,css,tailwind,mongodb,postgres,html,atom,bootstrap,cpp,git,github,jquery,py,vscode&theme=light)](https://skillicons.dev)
