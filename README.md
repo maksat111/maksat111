@@ -1,4 +1,4 @@
-<center>[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+Maksat's+github+page;I+am+a+web+developer)](https://git.io/typing-svg)</center>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+Maksat's+github+page;I+am+a+web+developer)](https://git.io/typing-svg)
 
 
 <p float="left">
