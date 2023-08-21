@@ -8,7 +8,3 @@
 
 
 [![My Skills](https://skillicons.dev/icons?i=js,nodejs,react,css,tailwind,mongodb,postgres,html,bootstrap,cpp,git,github,jquery,py,vscode&theme=light)](https://skillicons.dev)
-
-
-
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=maksat111)
