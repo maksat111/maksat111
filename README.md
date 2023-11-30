@@ -18,12 +18,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maksat111.maksat111&"  />
-</div>
-
-###
-
 <h1 align="center">Hey there 👋</h1>
 
 ###
