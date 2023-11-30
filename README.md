@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+github+page;I+am+a+web+developer)](https://git.io/typing-svg)
+# Hi, i'm [Maksat]!
 
 [![committers.top badge](https://user-badge.committers.top/turkmenistan/maksat111.svg)](https://user-badge.committers.top/turkmenistan/maksat111)
 
