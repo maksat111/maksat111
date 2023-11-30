@@ -10,4 +10,3 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,nodejs,react,css,tailwind,mongodb,postgres,html,bootstrap,cpp,git,github,jquery,py,vscode&theme=light)](https://skillicons.dev)
 
-[maksat111]:https://github.com/maksat111
