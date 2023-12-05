@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">I'm Maksat Akmyradow.<br><br>- 🔭 I’m working as Full-Stack Web Developer<br>- 📚 I'm currently learning Next.js & DevOps<br>- 💬 Ask me about MEARN & PERN</p>
+<p align="left">I'm Maksat Akmyradow.<br><br>- 🔭 I’m working as Full-Stack Web Developer<br>- 📚 I'm currently learning DevOps<br>- 💬 Ask me about MERN & PERN</p>
 
 ###
 
